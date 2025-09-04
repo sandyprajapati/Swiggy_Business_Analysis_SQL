@@ -5,8 +5,6 @@ This project is a data analysis of Swiggy, one of India’s largest food deliver
 # Datasets
 The item dataset contains information about the food items available on Swiggy, such as name, category, price, and restaurant. The orders dataset contains information about the orders placed by customers, such as date, time, location, payment method, and items ordered. The datasets are obtained from the following links:
 
-Item dataset: https://drive.google.com/file/d/1tBhn…
-Orders dataset: https://drive.google.com/file/d/1W2-n…
 Queries
 The project uses various SQL functions and commands to manipulate and clean the data, analyze it for trends and patterns, and visualize the insights in an easy-to-understand format. The queries are written in the SQL query tab.
 
