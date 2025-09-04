@@ -1,4 +1,4 @@
-# Swiggy-Business-Analysis-Project-with-SQL
+# Swiggy_Business_Analysis_SQL
 Swiggy Business Analysis with SQL
 This project is a data analysis of Swiggy, one of India’s largest food delivery platforms, using SQL. The goal is to gain insights into the platform’s performance and operations by querying two datasets: item dataset and orders dataset.
 
@@ -10,10 +10,8 @@ Orders dataset: https://drive.google.com/file/d/1W2-n…
 Queries
 The project uses various SQL functions and commands to manipulate and clean the data, analyze it for trends and patterns, and visualize the insights in an easy-to-understand format. The queries are written in the SQL query tab.
 
-# Questions
-Some of the questions that this project aims to answer are:
-
-1What are the distinct food items ordered on Swiggy?
+# Questions:
+What are the distinct food items ordered on Swiggy?
 How many vegetarian and meat items are there on Swiggy?
 How many unique orders are placed on Swiggy?
 What are the most popular items containing chicken or paratha in their name?
@@ -28,7 +26,7 @@ How does revenue change year over year on Swiggy using lag function and ranking 
 Which restaurant has the highest revenue ranking on Swiggy?
 What are the most common product combos ordered on Swiggy using self join?
 Results
-The results of the queries are presented in tables and charts that show the insights derived from the data analysis. The results can be found in the SQL query tab and are also summarized in this document: https://docs.google.com/document/d/16…
+
 
 # Conclusion
-The project showcases the power of data analysis in business decision-making and provides valuable insights into the world of Swiggy. The project demonstrates how SQL can be used to manipulate and clean the data, analyze it for trends and patterns, and visualize the insights in an easy-to-understand format.
+ The project demonstrates how SQL can be used to manipulate and clean the data, analyze it for trends and patterns, and visualize the insights in an easy-to-understand format.
