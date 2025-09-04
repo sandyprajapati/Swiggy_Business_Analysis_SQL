@@ -25,8 +25,6 @@ What is the average order value on Swiggy?
 How does revenue change year over year on Swiggy using lag function and ranking the highest year?
 Which restaurant has the highest revenue ranking on Swiggy?
 What are the most common product combos ordered on Swiggy using self join?
-Results
-
 
 # Conclusion
  The project demonstrates how SQL can be used to manipulate and clean the data, analyze it for trends and patterns, and visualize the insights in an easy-to-understand format.
